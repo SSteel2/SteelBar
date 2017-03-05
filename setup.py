@@ -8,6 +8,6 @@ setup(
     author_email='vytautas.valiukonis@outlook.com',
     url='https://github.com/SSteel2/SteelBar',
     download_url='https://github.com/SSteel2/SteelBar/archive/1.0.tar.gz',
-    keywords=['progress', 'bar', 'steelbar'],  # arbitrary keywords
+    keywords=['progress', 'bar', 'steelbar', 'multilayer'],
     classifiers=[],
 )
