@@ -1,0 +1,6 @@
+include README
+include LICENSE.txt
+include setup.cfg
+include setup.py
+include steelbar\__init__.py
+include steelbar\test.py
